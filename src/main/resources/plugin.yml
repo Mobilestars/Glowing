@@ -5,5 +5,5 @@ api-version: '1.18'
 prefix: Glow
 load: STARTUP
 authors: [ Mobilestars ]
-description: Description
+description: Glowing plugin where players glow and die if they logout during the effect.
 website: https://modrinth.com/project/glowing-plugin
