@@ -1,0 +1,5 @@
+# ==== Glowing ====
+glowing: true
+glow-interval-minutes: 20
+glow-duration-seconds: 60
+glow-die-on-logout: true
